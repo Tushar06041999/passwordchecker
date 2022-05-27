@@ -1,0 +1,41 @@
+body{
+    margin:0px;
+    border:none;
+}
+
+#first{
+    height:200px;
+    margin-left:300px;
+    margin-top: 100px;
+    margin-right:300px;
+    background:rgb(223, 223, 223);
+}
+.second{
+    padding-top: 15px;
+}
+
+.firstlabel{
+    margin-left: 80px;
+}
+
+#name,#pass{
+    margin-left:80px;
+    height:30px;
+    width:80%;
+}
+#submit{
+    margin-left: 85px;
+    text-align: center;
+    height:30px;
+    width:80%;
+    background:rgb(36, 179, 0);
+    border: none;
+}
+
+.seconddiv{
+    height:350px;
+    margin-left:300px;
+    margin-top: 20px;
+    margin-right:300px;
+    background:rgb(223, 223, 223);
+}
